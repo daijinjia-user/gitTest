@@ -1,5 +1,4 @@
 int x
 sdad
 1111
-x = 1
 x = 2
